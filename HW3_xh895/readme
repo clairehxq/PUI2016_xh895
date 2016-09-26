@@ -1,0 +1,16 @@
+Assignment 1 : Worked on my own and discussed understanding of the question and approach with Mona and Kaylyn.
+
+           With python's built in package, formed 100 sample set of different sizes ranging from 10 to 2000 of 5 distributions.
+           Plot them by means and sample range for each kind of distributions. Formed a histogram suggesting the number of datasets for each sample mean value.
+           From the two figures for each kind of distribution, think about their connection and reflection of the central theorem.
+           
+Assignment 2 : Worked with Mona(NM2773) and Kaylyn(kal573). We took a quick look at the data and decided which we wanted to dig into further.
+           
+           We formulated the hypothesis together. During the discussion group project study hours, Mona did the main coding. I followed her approach and understood the code.
+           I did the coding for the hand-in homework.
+           
+Assignment 3: Worked on my own.
+            
+          Finished lab 3. With the 100 bus compute time data and known bus compute time mean and standard deviation, built a pypothesis that new time data is less than the old value.
+          With hypothesis, built a statistical test with 0.05 significance level. Made a null hypothesis and an alternative hypothesis, calculated the z-value and decide whether or not to reject null hypothesis.
+          Result shows that with 0.05 significance level, the test result reject null hypothesis. Thus, it's statistically evident that new bus compute time is less than old bus compute time.
