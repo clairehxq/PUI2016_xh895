@@ -1,4 +1,4 @@
-# assign 1: did my own work. 
+# assign 1: worked on my own
 1. data preparation:
 Used citibike data. Converted birth year data to age. Dropped age bigger than 85. 
 
