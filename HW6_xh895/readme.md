@@ -11,3 +11,7 @@ Finished our citibike project. We coded on our own and discussed the results tog
 I finished the [ananlysis] and [results] part on Authorea document. I also edited the format.
 
 authorea link : https://www.authorea.com/users/106828/articles/133787/_show_article?access_token=hxmv25fhR0dWV2w4k5SiyA
+
+# FBB
+
+quite good. good figures, pretty good writing and organizations. some flaws; see the inline comments in authorea article
